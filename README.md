@@ -10,6 +10,10 @@ Contact Phone: 650-245-7390
 
 Email: Abreuhaha@gmail.com
 
+LinkedIn: [https://www.linkedin.com/in/alexabreu2/](https://www.linkedin.com/in/alexabreu2/)
+
+Personal: [http://aabreu.github.io](http://aabreu.github.io)
+
 ## Objective
 
 Utilize the extensive writing skills and the interpersonal/communication skills acquired over the course of my career as well as in the Bay Area community. Develop fresh skills through new experiences and challenges.
