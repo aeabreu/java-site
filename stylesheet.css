@@ -1,21 +1,45 @@
-body {
-	background-color: #b7d1c4
-}
-
-h2 {
-	font-family: Verdana;
-	font-weight: bold;
-	text-align: left;
-	padding-top: 25px;
-	padding-bottom: 25px;
-	color: #acd1b2;
+html {
+    background-color: #b7d1c4;
+    font-size: 12px;
+    font-family: 'Merriweather', Georgia, serif;
 }
 
 h1 {
-  font-family: Verdana;
-  font-weight: bold;
-  text-align: left;
-  color: black;
- }
-  
-  
+    font-family: Verdana;
+    font-weight: bold;
+    text-align: left;
+    color: black;
+}
+
+
+h2 {
+    font-family: Verdana;
+    font-weight: bold;
+    color: #acd1b2;
+}
+
+h2.alex {
+    font-size: 75px;
+    color: red;
+}
+
+h2.h2class {
+    color: blue;
+}
+
+h2#h2Id {
+    color: green;
+    font-size: 46px;
+}
+
+p {}
+
+ul {}
+
+li {}
+
+a {}
+
+.alex {
+    font-size: 50px;
+}
