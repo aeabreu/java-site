@@ -12,7 +12,7 @@ Email: Abreuhaha@gmail.com
 
 LinkedIn: [https://www.linkedin.com/in/alexabreu2/](https://www.linkedin.com/in/alexabreu2/)
 
-Personal: [http://aabreu.github.io](http://aabreu.github.io)
+Personal: [https://aeabreu.github.io/](https://aeabreu.github.io/)
 
 ## Objective
 
