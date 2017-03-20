@@ -32,6 +32,10 @@ h2#h2Id {
     font-size: 46px;
 }
 
+#timeOfDay {
+    color: white;
+}
+
 p {}
 
 ul {}
@@ -42,4 +46,16 @@ a {}
 
 .alex {
     font-size: 50px;
+}
+
+#skillSummary {
+    overflow: hidden;
+}
+
+#skillSummary.open {
+  height: auto;
+}
+
+#skillSummary.close {
+    height: 0;
 }
