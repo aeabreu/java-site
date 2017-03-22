@@ -70,3 +70,25 @@ a {}
 #objecive.close {
     height: 0;
 }
+#workExperience {
+    overflow: hidden;
+}
+
+#workExperience.open {
+  height: auto;
+}
+
+#workExperience.close {
+    height: 0;
+}
+#education {
+    overflow: hidden;
+}
+
+#education.open {
+  height: auto;
+}
+
+#education.close {
+    height: 0;
+}
