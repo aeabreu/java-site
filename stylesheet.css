@@ -59,3 +59,14 @@ a {}
 #skillSummary.close {
     height: 0;
 }
+#objective {
+    overflow: hidden;
+}
+
+#objective.open {
+  height: auto;
+}
+
+#objecive.close {
+    height: 0;
+}
