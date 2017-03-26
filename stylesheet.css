@@ -3,51 +3,229 @@ html {
     font-size: 12px;
     font-family: 'Merriweather', Georgia, serif;
 }
-
-h1 {
-    font-family: Verdana;
-    font-weight: bold;
-    text-align: left;
-    color: black;
+/* Outer Frame
+=============================*/
+body{
+    background-image: url(http://themes.wikidot.com/local--files/webbrand/brand_back.png);
+    }
+#container-wrap{
+    width: 950px;
+    margin: auto;
 }
-
-
-h2 {
-    font-family: Verdana;
-    font-weight: bold;
-    color: #acd1b2;
+/* Header
+=============================*/
+#header{
+    height: 150px;
+    padding-left: 18px;
 }
-
-h2.alex {
-    font-size: 75px;
-    color: red;
-}
-
-h2.h2class {
-    color: blue;
-}
-
-h2#h2Id {
-    color: green;
-    font-size: 46px;
-}
-
+/*Java Time Element 
+=================*/
 #timeOfDay {
     color: white;
 }
+#toc{
+    border: 1px solid #AAA;
+    box-shadow: 0 0 4px -2px #777;
+    -moz-box-shadow: 0 0 4px -2px #777;
+    -webkit-box-shadow: 0 0 4px -2px #777;
+    background-color: #F5F5F5;
+    background-image: url(http://themes.wikidot.com/local--files/webbrand/brand_webTop.png);
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+}
+#toc-action-bar{    display: none; }
+ h1{
+    font-size: 20px;
+    font-weight: normal;
+    letter-spacing: 1px;
+    margin: 0;
+    padding: 4px 0 0 0;
+    text-shadow: 1px 1px 2px rgba(90, 90, 90, 0.4);
+    word-spacing: -6px;
+}
+h2{
+    color: #40331F;
+    font-size: 10px;
+    font-weight: normal;
+    letter-spacing: 2px;
+    margin: 0;
+    padding: 4px 0 0 80px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+}
+h1 a{
+    transition: color 500ms;
+    -moz-transition: color 500ms;
+    -webkit-transition: color 500ms;
+    -o-transition: color 500ms;
+}
+h1 a:hover{
+    text-decoration: none;
+    color: #40331F
+}
 
-p {}
+p {
+    line-height: 1.4em;
+}
 
 ul {}
 
 li {}
 
-a {}
-
-.alex {
-    font-size: 50px;
+a {
+    color: #658515;
+    text-decoration: none;
+    background: none;
 }
 
+a:hover{
+    text-decoration: underline;
+    background: none;
+}
+
+.alex {
+    font-size: 40px;
+    text-decoration: underline;
+}
+/* Top Bar
+=============================*/
+#top-bar{
+    display: block;
+    position: absolute;
+    left: 0; bottom: 0;
+    width: 100%;
+    background-image: url(http://themes.wikidot.com/local--files/webbrand/brand_webTop.png);
+    background-repeat: repeat-x;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    height: 40px;
+    box-shadow: 0 0 5px -2px #777;
+    -moz-box-shadow: 0 0 5px -2px #777;
+    -webkit-box-shadow: 0 0 5px -2px #777;
+    border: 1px solid #AAA;
+}
+#top-bar > ul{
+    float: left;
+    padding: 0;
+    height: 40px;
+}
+#top-bar ul li a{
+    color: #222A19;
+    height: 24px;
+    margin: 3px 0;
+    padding: 8px 10px 0;
+    background: none;
+    font-size: 11pt;
+    font-weight: bold;
+    text-shadow: 0 0 1px #999;
+    box-shadow: inset 0 0 4px rgba(195,195,195,0.0);
+    -moz-box-shadow: inset 0 0 4px rgba(195,195,195,0.0);
+    -webkit-box-shadow: inset 0 0 4px rgba(195,195,195,0.0);
+    border-radius: 15px;
+    -moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+    border: 1px solid;
+    border-color: transparent;
+    transition: color 400ms, background 400ms, box-shadow 400ms, border-color 400ms;
+    -moz-transition: color 400ms, background 400ms, box-shadow 400ms, border-color 400ms;
+    -webkit-transition: color 400ms, background 400ms, box-shadow 400ms, border-color 400ms;
+    -o-transition: color 400ms, background 400ms, box-shadow 400ms, border-color 400ms;
+}
+#top-bar ul li a:hover{
+    color: #525A69;
+    border-color: rgba(156,156,156,1.0);
+    text-decoration: none;
+    background: rgba(240,240,240,0.1);
+    box-shadow: inset 0 0 2px rgba(175,175,175,0.9);
+    -moz-box-shadow: inset 0 0 2px rgba(175,175,175,0.9);
+    -webkit-box-shadow: inset 0 0 2px rgba(175,175,175,0.9);
+}
+ 
+#top-bar li ul{
+    width: 200px;
+    opacity: 0;
+    margin-left: 75px;
+    background-color: #F5F5F5;
+    background-image: -moz-linear-gradient(top,#FAFAFA,#F3F3F3);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#FAFAFA), to(#F3F3F3));
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    box-shadow: 0 0 5px -2px #777;
+    -moz-box-shadow: 0 0 5px -2px #777;
+    -webkit-box-shadow: 0 0 5px -2px #777;
+    border: 1px solid #AAA;
+    transition: all 1s;
+    -moz-transition: all 1s;
+    -webkit-transition: all 1s;
+    -o-transition: all 1s;
+}
+#top-bar li:hover ul{
+    opacity: 1;
+    margin-left: 0;
+}
+#top-bar li ul li a{
+    font-size: 10pt;
+    background: none;
+    border-radius: 0;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+    height: 20px;
+}
+#top-bar li ul li a:hover{
+    box-shadow: inset 0 0 4px rgba(195,195,195,0.0);
+    -moz-box-shadow: inset 0 0 4px rgba(195,195,195,0.0);
+    -webkit-box-shadow: inset 0 0 4px rgba(195,195,195,0.0);
+    border-color: rgba(156,156,156,0.0);
+    background: rgba(240,240,240,0.0);
+    color: #658515;
+}
+#top-bar li li ul{    display: none !important; }
+/* Side Bar
+=============================*/
+#side-bar{
+    float: right;
+    width: 200px;
+    margin: 10px 0 0 1em;
+}
+#side-bar h1, #side-bar h2,
+#side-bar h3, #side-bar h4{
+    margin: 4px 0;
+    font-family: Georgia, serif;
+    color: #658515;
+    letter-spacing: 1px;
+    font-weight: bold;
+}
+#side-bar h1{    font-size: 14pt; }
+#side-bar h2{    font-size: 12pt; }
+#side-bar h3{    font-size: 11pt; }
+#side-bar h4{    font-size: 10pt; }
+#side-bar p{
+    font-size: 90%;
+    color: #444;
+}
+#side-bar ul{
+    list-style: none;
+    padding-left: 1em;
+}
+#side-bar li a{
+    display: block;
+    padding: 0 0 5px 0;
+    font-size: 110%;
+    border-right: 2px solid #EEE;
+    transition: 600ms border-color;
+    -moz-transition: border-color 600ms linear, padding-left 300ms linear;
+    -webkit-transition: border-color 600ms linear, padding-left 300ms linear;
+    -o-transition: border-color 600ms linear, padding-left 300ms linear;
+}
+#side-bar li a:hover{
+    text-decoration: none;
+    border-color: #BED272;
+    padding-left: 6px;
+}
+/* Java Collapse
+==========*/
 #skillSummary {
     overflow: hidden;
 }

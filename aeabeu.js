@@ -15,7 +15,7 @@ $(function() {
   function updateGreeting() {
     var MORNING = 'morning';
     var AFTERNOON = 'afternoon';
-    var NIGHT = 'night';
+    var NIGHT = 'evening';
 
     var currentDay;
     var timeOfDay = $('#timeOfDay');
@@ -29,7 +29,7 @@ $(function() {
       currentDay = NIGHT;
     }
 
-    timeOfDay.html(currentDay + ', the time is ' + date);
+    timeOfDay.html(currentDay + '! The time is ' + date);
   }
 
   updateGreeting();
