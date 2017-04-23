@@ -226,6 +226,18 @@ a:hover{
 }
 /* Java Collapse
 ==========*/
+#objective {
+    overflow: hidden;
+}
+
+#objective.open {
+  height: auto;
+}
+
+#objective.close {
+    height: 0;
+}
+
 #skillSummary {
     overflow: hidden;
 }
@@ -237,17 +249,8 @@ a:hover{
 #skillSummary.close {
     height: 0;
 }
-#objective {
-    overflow: hidden;
-}
 
-#objective.open {
-  height: auto;
-}
 
-#objecive.close {
-    height: 0;
-}
 #workExperience {
     overflow: hidden;
 }
