@@ -20,24 +20,28 @@ Utilize the extensive writing skills and the interpersonal/communication skills 
 
 ## Skill Summary
 
-+ Proficient with CSS, HTML, JavaScript
++ Proficient with CSS, HTML, JavaScript, YAML.
 + Understanding of web architecture (SOAP, REST, API, JSON, SQL etc).
-+ Experience with version control services Gitlab, WebPlatform.
++ Experience with CMS and developer software including Gitlab, Github, Swagger, Gliffy, WebPlatform.
 + Highly skilled at developing perfect documents across all categories (wikis, catalogues, newsletters, user manuals, white pages, guides, calendars, job aides, etc). 
 + Skilled at creating business process diagrams (workflows, organization flowcharts, swim-lane diagrams, GANT charts, etc) as well as technical architecture diagrams and frameworks (wireframes, UML, MVC).
-+ Javadoc architecture.
 + Master proficiency in MS Publisher, MSWord, Visio, SnagIt, Outlook, Powerpoint. 
 + Extensive experience with Paint, Adobe Photoshop (PDF), Adobe Acrobat, MS Excel, Access, Devtrack, SharePoint, Pydio, Rally, BOX.
-+ Ability to communicate clearly cross functionally.
-+ A thorough understanding of network architecture (common and necessary elements).
++ Thorough understanding of web and IT architecture. 
 + Extensive experience designing training materials and leading tutorials.
 + Extensive experience copyediting pre-existing documents and content for non-technical audiences.
-+ Experience with Rally software for Agile workflow methodology.
++ Experience with Rally and Trello software for Agile workflow methodology.
 + Experience with Salesforce software (Chatter, Energy Insight).
 
 ## Work Experience
 
-**IT Tech Writer**, Disys for Kaiser Permanente (Contract), Oakland, CA, _Sep 2015 - Current_
+**Technical Writer**, Skrimmage Project, SF, CA, _Feb 2017 - Current_ 
+
++ Created UML diagrams for the MONGO DB using Gliffy.
++ Created and maintained API documents using Swagger and YAML.
++ Developed my presence on Github and in other venues for tech writing specific to the engineer community.
+
+**IT Tech Writer**, Disys for Kaiser Permanente (Contract), Oakland, CA, _Sep 2015 - Dec 2016_
 
 + Created network and system architecture diagrams for all environments of KP.org and MyDoctor Online services.
 + Worked directly with engineers, product managers, and other stakeholders to help define and outline new developer products and features.
