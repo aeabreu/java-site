@@ -38,7 +38,7 @@ Utilize the extensive writing skills and the interpersonal/communication skills 
 **Technical Writer**, Skrimmage Project, SF, CA, _Feb 2017 - Current_ 
 
 + Created UML diagrams for the MONGO DB using Gliffy.
-+ Created and maintained the [Skrimmage API](https://app.swaggerhub.com/apis/skankbunnysquad/skrimmage/v1) documents for the using Swagger and YAML.
++ Created and maintained the [Skrimmage API](https://app.swaggerhub.com/apis/skankbunnysquad/skrimmage/v1) documentation through Swagger using YAML.
 + Developed my presence on Github and in other venues for tech writing specific to the engineer community.
 
 **IT Tech Writer**, Disys for Kaiser Permanente (Contract), Oakland, CA, _Sep 2015 - Dec 2016_
