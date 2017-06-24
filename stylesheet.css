@@ -1,95 +1,38 @@
 html {
-    font-size: 12px;
-    font-family: 'Merriweather', Georgia, serif;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
 }
+
 /* Outer Frame
 =============================*/
-body{
-    background-image: url(http://themes.wikidot.com/local--files/webbrand/brand_back.png);
-    }
-#container-wrap{
+body {
+    margin: 0;
+}
+
+.section-header {
+    display: flex;
+}
+
+.section-header .toggle {
+    background: none;
+    border: none;
+    outline: none;
+}
+
+
+#container-wrap {
     width: 950px;
     margin: auto;
 }
+
 /* Header
 =============================*/
-#header{
+#header {
     height: 150px;
     padding-left: 18px;
 }
-/*Java Time Element 
-=================*/
-#timeOfDay {
-    color: white;
-}
-#toc{
-    border: 1px solid #AAA;
-    box-shadow: 0 0 4px -2px #777;
-    -moz-box-shadow: 0 0 4px -2px #777;
-    -webkit-box-shadow: 0 0 4px -2px #777;
-    background-color: #F5F5F5;
-    background-image: url(http://themes.wikidot.com/local--files/webbrand/brand_webTop.png);
-    border-radius: 10px;
-    -moz-border-radius: 10px;
-    -webkit-border-radius: 10px;
-}
-#toc-action-bar{    display: none; }
- h1{
-    font-size: 20px;
-    font-weight: normal;
-    letter-spacing: 1px;
-    margin: 0;
-    padding: 4px 0 0 0;
-    text-shadow: 1px 1px 2px rgba(90, 90, 90, 0.4);
-    word-spacing: -6px;
-}
-h2{
-    color: #40331F;
-    font-size: 10px;
-    font-weight: normal;
-    letter-spacing: 2px;
-    margin: 0;
-    padding: 4px 0 0 80px;
-    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
-}
-h1 a{
-    transition: color 500ms;
-    -moz-transition: color 500ms;
-    -webkit-transition: color 500ms;
-    -o-transition: color 500ms;
-}
-h1 a:hover{
-    text-decoration: none;
-    color: #40331F
-}
-img {
-    border-radius:10px;
-    height:300px; 
-    width:300px;
-}
-p {
-    line-height: 1.4em;
-}
 
-ul {}
 
-li {}
-
-a {
-    color: #658515;
-    text-decoration: none;
-    background: none;
-}
-
-a:hover{
-    text-decoration: underline;
-    background: none;
-}
-
-.alex {
-    font-size: 40px;
-    text-decoration: underline;
-}
 /* Top Bar
 =============================*/
 #top-bar{

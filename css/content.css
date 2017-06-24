@@ -1,0 +1,9 @@
+#content {
+    margin-top: 80px;
+    padding: 24px;
+}
+
+/* Javascript Time Element  */
+#content #timeOfDay #date {
+    font-weight: bold;
+}

@@ -1,17 +1,4 @@
 $(function() {
-//          function Alex() {
-//            this.name = 'alex';
-//            this.lastName = 'abreu';
-//          }
-//
-//          Alex.prototype.getName = function() {
-//            return 'whaddddup';
-//          }
-//
-//
-//          var peter = new Alex();
-//          console.log(peter.getName());
-
   function updateGreeting() {
     var MORNING = 'morning';
     var AFTERNOON = 'afternoon';
@@ -29,7 +16,18 @@ $(function() {
       currentDay = NIGHT;
     }
 
-    timeOfDay.html(currentDay + '! The time is ' + date);
+    var formattedDate = (date.getMonth() + 1) + '/' + date.getDate() + '/' +  date.getFullYear();
+
+    var hr = date.getHours();
+    var min = date.getMinutes();
+    if (min < 10) {
+      min = '0' + min;
+    }
+
+    var ampm = hr < 12 ? 'am' : 'pm';
+    var formattedTime = hr + ":" + min + ampm;
+
+    timeOfDay.html(currentDay + '! The day is <span id="date">' + formattedDate + ' ' + formattedTime + '</span>');
   }
 
   updateGreeting();
@@ -38,11 +36,11 @@ $(function() {
     if ($('#objective').hasClass('open')) {
       $('#objective').removeClass('open');
       $('#objective').addClass('close');
-      $('#objectiveButton').text('Open');
+      $('#objectiveButton').html('<i class="fa fa-chevron-down fa-lg"></i>');
     } else {
       $('#objective').removeClass('close');
       $('#objective').addClass('open');
-      $('#objectiveButton').text('Close');
+      $('#objectiveButton').html('<i class="fa fa-chevron-up fa-lg"></i>');
     }
   });
   

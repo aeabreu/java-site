@@ -8,11 +8,11 @@ Alexander Abreu
 
 Contact Phone: 650-245-7390
 
-Email: Abreuhaha@gmail.com
+Email: abreuhaha@gmail.com
 
 LinkedIn: [https://www.linkedin.com/in/alexabreu2/](https://www.linkedin.com/in/alexabreu2/)
 
-Personal: [https://aeabreu.github.io/](https://aeabreu.github.io/)
+Portfolio: [https://aeabreu.github.io/](https://aeabreu.github.io/)
 
 ## Objective
 
@@ -20,25 +20,28 @@ Utilize the extensive writing skills and the interpersonal/communication skills 
 
 ## Skill Summary
 
-+ Proficient with CSS, HTML, JavaScript, YAML.
-+ Understanding of web architecture (SOAP, REST, API, JSON, SQL etc).
-+ Experience with CMS and developer software including Gitlab, Github, Swagger, Gliffy, WebPlatform.
++ Proficient with CSS, HTML, JavaScript, YAML, JSON.
++ Understand database technologies: SQL, MongoDB
++ Understanding of web architecture: SOAP, RESTful services, HTTP, etc.
++ Experience with CMS: JIRA, WebPlatform
++ Experience with developer software/services: Git (Gitlab, Github), Postman, Trello
++ Experience with technical documentation: SwaggerHub, Gliffy, Rally
++ Experience with Salesforce software (Chatter, Energy Insight).
 + Highly skilled at developing perfect documents across all categories (wikis, catalogues, newsletters, user manuals, white pages, guides, calendars, job aides, etc). 
 + Skilled at creating business process diagrams (workflows, organization flowcharts, swim-lane diagrams, GANT charts, etc) as well as technical architecture diagrams and frameworks (wireframes, UML, MVC).
 + Master proficiency in MS Publisher, MSWord, Visio, SnagIt, Outlook, Powerpoint. 
-+ Extensive experience with Paint, Adobe Photoshop (PDF), Adobe Acrobat, MS Excel, Access, Devtrack, SharePoint, Pydio, Rally, BOX.
-+ Thorough understanding of web and IT architecture. 
++ Extensive experience with Paint, Adobe Photoshop (PDF), Adobe Acrobat, MS Excel, Access, Devtrack, SharePoint, Pydio, Rally, BOX. 
 + Extensive experience designing training materials and leading tutorials.
 + Extensive experience copyediting pre-existing documents and content for non-technical audiences.
-+ Experience with Rally and Trello software for Agile workflow methodology.
-+ Experience with Salesforce software (Chatter, Energy Insight).
 
 ## Work Experience
 
 **Technical Writer**, Skrimmage Project, SF, CA, _Feb 2017 - Current_ 
 
-+ Created UML diagrams for the MONGO DB using Gliffy.
-+ Created and maintained the [Skrimmage API](https://app.swaggerhub.com/apis/skankbunnysquad/skrimmage/v1) documentation through Swagger using YAML.
++ Created and maintained the [Skrimmage API documentation](https://app.swaggerhub.com/apis/skankbunnysquad/skrimmage/v1) through Swaggerhub.
++ Tested and validate API responses using Postman.
++ Created MongoDB UML diagrams using Gliffy.
++ Validated MongoDB schemas using the Mongo shell.
 + Developed my presence on Github and in other venues for tech writing specific to the engineer community.
 
 **IT Tech Writer**, Disys for Kaiser Permanente (Contract), Oakland, CA, _Sep 2015 - Dec 2016_
@@ -53,6 +56,7 @@ Utilize the extensive writing skills and the interpersonal/communication skills 
 + Evaluated data models and physical databases for variances and discrepancies.
 
 **IT Tech Writer**, AllSource for PG&E (Contract), San Francisco, CA, _Jan 2013 - Feb 2015_	
+
 + Created procedures and guides facilitating the exchange of data between existing databases and Salesforce systems.
 + Created diagrams and data flows for internal systems pre- and post-integration.
 + Used Salesforce software and was exposed to their SOAP API for internal reference docs.
@@ -61,6 +65,7 @@ Utilize the extensive writing skills and the interpersonal/communication skills 
 + Developed copy decks and communication material for presentations and newsletters.
 
 **Copywriter/Editor**, Iopto & Jumpsie, San Francisco,CA, _Jun 2012 - Jan 2013_	
+
 + Created copy and design content for websites including Iopto, Trazzler and Jumpsie.
 + Developed and maintained unique and consistent 'voice' throughout content.
 + Created design template and layouts to manage the customer experience and facilitate user engagement.

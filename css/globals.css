@@ -1,0 +1,33 @@
+h1 {
+    font-family: Merriweather, Georgia, serif;
+    font-size: 48px;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    border-bottom: 1px solid #e2e2e2;
+    font-family: Merriweather, Georgia, serif;
+    font-size: 40px;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    border-radius:10px;
+    height:300px;
+    width:300px;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+    background: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    background: none;
+}
