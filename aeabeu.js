@@ -1,17 +1,4 @@
 $(function() {
-//          function Alex() {
-//            this.name = 'alex';
-//            this.lastName = 'abreu';
-//          }
-//
-//          Alex.prototype.getName = function() {
-//            return 'whaddddup';
-//          }
-//
-//
-//          var peter = new Alex();
-//          console.log(peter.getName());
-
   function updateGreeting() {
     var MORNING = 'morning';
     var AFTERNOON = 'afternoon';
@@ -29,34 +16,41 @@ $(function() {
       currentDay = NIGHT;
     }
 
-    timeOfDay.html(currentDay + '! The time is ' + date);
+    var formattedDate = (date.getMonth() + 1) + '/' + date.getDate() + '/' +  date.getFullYear();
+
+    var hr = date.getHours();
+    var min = date.getMinutes();
+    if (min < 10) {
+      min = '0' + min;
+    }
+
+    var ampm = hr < 12 ? 'am' : 'pm';
+    var formattedTime = hr + ":" + min + ampm;
+
+    timeOfDay.html(currentDay + '! The day is <span id="date">' + formattedDate + ' ' + formattedTime + '</span>');
+  }
+
+  function toggle(selector, trigger) {
+    if ($(selector).hasClass('open')) {
+      $(selector).removeClass('open');
+      $(selector).addClass('close');
+      $(trigger).html('<i class="fa fa-chevron-down fa-lg"></i>');
+    } else {
+      $(selector).removeClass('close');
+      $(selector).addClass('open');
+      $(trigger).html('<i class="fa fa-chevron-up fa-lg"></i>');
+    }
   }
 
   updateGreeting();
 
-    $('#objectiveButton').click(function() {
-    if ($('#objective').hasClass('open')) {
-      $('#objective').removeClass('open');
-      $('#objective').addClass('close');
-      $('#objectiveButton').text('Open');
-    } else {
-      $('#objective').removeClass('close');
-      $('#objective').addClass('open');
-      $('#objectiveButton').text('Close');
-    }
+  $('#objectiveButton').click(function() {
+    toggle('#objective', '#objectiveButton');
   });
   
 
   $('#skillSummaryButton').click(function() {
-    if ($('#skillSummary').hasClass('open')) {
-      $('#skillSummary').removeClass('open');
-      $('#skillSummary').addClass('close');
-      $('#skillSummaryButton').text('Open');
-    } else {
-      $('#skillSummary').removeClass('close');
-      $('#skillSummary').addClass('open');
-      $('#skillSummaryButton').text('Close');
-    }
+    toggle('#skillSummary', '#skillSummaryButton');
   });
 
   $('#workExperienceButton').click(function() {

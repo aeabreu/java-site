@@ -1,0 +1,46 @@
+#content {
+    margin-top: 80px;
+    padding: 24px;
+}
+
+/* Javascript Time Element  */
+#content #timeOfDay #date {
+    font-weight: bold;
+}
+
+#content .section-header {
+    border-bottom: 1px solid #e2e2e2;
+    display: flex;
+    width: 100%;
+}
+
+.section-header .toggle {
+    background: none;
+    border: none;
+    outline: none;
+}
+
+
+#objective {
+    overflow: hidden;
+}
+
+#objective.open {
+    height: auto;
+}
+
+#objective.close {
+    height: 0;
+}
+
+#skillSummary {
+    overflow: hidden;
+}
+
+#skillSummary.open {
+    height: auto;
+}
+
+#skillSummary.close {
+    height: 0;
+}

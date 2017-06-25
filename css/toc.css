@@ -1,0 +1,67 @@
+#toc {
+    background-color: #fff;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+    display: flex;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+#toc #logo {
+    display: flex;
+    flex-direction: column;
+    padding: 24px 0px 16px 24px;
+}
+
+#toc #logo h1 {
+    line-height: 0.8;
+}
+
+#toc #logo span {
+    color: #999;
+    font-size: 16px;
+    align-self: flex-end;
+}
+
+#toc .toc-links {
+    align-self: flex-end;
+    display: inline-block;
+    font-size: 14px;
+    margin-left: 48px;
+    padding: 0px 0px 16px 0px;
+}
+
+#toc .toc-links a {
+    border-right: 2px solid #e2e2e2;
+    display: inline-block;
+    font-size: 16px;
+    padding: 0 12px;
+}
+
+#toc .toc-links a:first-child {
+    padding-left: 0;
+}
+
+#toc .toc-links a:last-child {
+    border-right: none;
+}
+
+#toc #contact-info {
+    display: flex;
+    flex: 1;
+    justify-content: flex-end;
+    align-items: flex-start;
+    padding-right: 24px;
+}
+
+#toc #contact-info ul {
+    margin: 0;
+    padding: 0;
+}
+
+#toc #contact-info ul li {
+    display: inline;
+    font-size: 13px;
+    padding: 0 12px;
+    list-style: none;
+}
