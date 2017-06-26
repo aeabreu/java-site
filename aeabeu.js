@@ -66,7 +66,7 @@ $(function() {
   });
 
   $('#educationButton').click(function() {
-    toggle('#workExperience', '#workExperienceButton');
+    toggle('#education', '#educationButton');
   });
 
   $('#samplesButton').click(function() {
