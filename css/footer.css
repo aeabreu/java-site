@@ -1,0 +1,21 @@
+#footer #contact-info {
+    background-color: #fff;
+    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.2);
+    bottom: 0;
+    min-width: 900px;
+    padding: 24px;
+    position: fixed;
+    width: 100%;
+}
+
+#footer #contact-info ul {
+    margin: 0;
+    padding: 0;
+}
+
+#footer #contact-info ul li {
+    display: inline;
+    font-size: 13px;
+    padding: 0 12px;
+    list-style: none;
+}

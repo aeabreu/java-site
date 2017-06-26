@@ -25,6 +25,14 @@ $(function() {
     }
 
     var ampm = hr < 12 ? 'am' : 'pm';
+
+    // Format hour
+    if (hr > 12) {
+      hr = hr - 12;
+    } else if (hr === 0) {
+      hr = 12;
+    }
+
     var formattedTime = hr + ":" + min + ampm;
 
     timeOfDay.html(currentDay + '! The day is <span id="date">' + formattedDate + ' ' + formattedTime + '</span>');
@@ -34,11 +42,11 @@ $(function() {
     if ($(selector).hasClass('open')) {
       $(selector).removeClass('open');
       $(selector).addClass('close');
-      $(trigger).html('<i class="fa fa-chevron-down fa-lg"></i>');
+      $(trigger).html('<i class="fa fa-chevron-up fa-lg"></i>');
     } else {
       $(selector).removeClass('close');
       $(selector).addClass('open');
-      $(trigger).html('<i class="fa fa-chevron-up fa-lg"></i>');
+      $(trigger).html('<i class="fa fa-chevron-down fa-lg"></i>');
     }
   }
 
@@ -54,29 +62,16 @@ $(function() {
   });
 
   $('#workExperienceButton').click(function() {
-    if ($('#workExperience').hasClass('open')) {
-      $('#workExperience').removeClass('open');
-      $('#workExperience').addClass('close');
-      $('#workExperienceButton').text('Open');
-    } else {
-      $('#workExperience').removeClass('close');
-      $('#workExperience').addClass('open');
-      $('#workExperienceButton').text('Close');
-    }
+    toggle('#workExperience', '#workExperienceButton');
   });
 
   $('#educationButton').click(function() {
-    if ($('#education').hasClass('open')) {
-      $('#education').removeClass('open');
-      $('#education').addClass('close');
-      $('#educationButton').text('Open');
-    } else {
-      $('#education').removeClass('close');
-      $('#education').addClass('open');
-      $('#educationButton').text('Close');
-    }
+    toggle('#workExperience', '#workExperienceButton');
   });
 
+  $('#samplesButton').click(function() {
+    toggle('#samples', '#samplesButton');
+  });
 });
  
 

@@ -1,3 +1,14 @@
+a {
+    color: #008cba;
+    text-decoration: none;
+    background: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    background: none;
+}
+
 button {
     cursor: pointer;
 }
@@ -24,13 +35,10 @@ img {
     width:300px;
 }
 
-a {
-    color: #000;
-    text-decoration: none;
-    background: none;
+ul li {
+    margin-bottom: 8px;
 }
 
-a:hover {
-    text-decoration: underline;
-    background: none;
+ul li:last-child {
+    margin-bottom: 0;
 }

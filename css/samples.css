@@ -1,0 +1,28 @@
+#samples {
+    overflow: hidden;
+    padding-top: 16px;
+}
+
+#samples.open {
+    height: auto;
+}
+
+#samples.close {
+    height: 0;
+}
+
+#samples .sample {
+    overflow: hidden;
+    border: 1px solid #e2e2e2;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    float: left;
+}
+
+#samples .sample:hover .overlay {
+    opacity: 1;
+}

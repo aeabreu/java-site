@@ -20,7 +20,7 @@ Utilize the extensive writing skills and the interpersonal/communication skills 
 
 ## Skill Summary
 
-+ Proficient with CSS, HTML, JavaScript, YAML, JSON.
++ Proficient with CSS, HTML, JavaScript, Markdown, YAML, JSON.
 + Understand database technologies: SQL, MongoDB
 + Understanding of web architecture: SOAP, RESTful services, HTTP, etc.
 + Experience with CMS: JIRA, WebPlatform

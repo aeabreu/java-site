@@ -7,37 +7,12 @@ html {
 =============================*/
 body {
     margin: 0;
+    min-width: 900px;
 }
 
 #container-wrap {
     width: 950px;
     margin: auto;
-}
-
-/* Java Collapse
-==========*/
-
-#workExperience {
-    overflow: hidden;
-}
-
-#workExperience.open {
-  height: auto;
-}
-
-#workExperience.close {
-    height: 0;
-}
-#education {
-    overflow: hidden;
-}
-
-#education.open {
-  height: auto;
-}
-
-#education.close {
-    height: 0;
 }
 
 /*Image Overlay
@@ -63,10 +38,6 @@ body {
   background-color: #008CBA;
 }
 
-#samples-table .sample:hover .overlay {
-  opacity: 1;
-}
-
 .text {
   color: white;
   font-size: 20px;
@@ -75,18 +46,6 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
-}
-
-#samples-table .sample {
-    overflow: hidden;
-    border-radius:10px;
-    background-repeat: no-repeat;
-    width: 400px;
-    height: 400px;
-    margin-right: 20px;
-    margin-bottom: 20px;
-    float: left;
-    background: red;
 }
 
 .span-table{ 
