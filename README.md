@@ -12,7 +12,7 @@ Email: abreuhaha@gmail.com
 
 LinkedIn: [https://www.linkedin.com/in/alexabreu2/](https://www.linkedin.com/in/alexabreu2/)
 
-Portfolio: [https://aeabreu.github.io/](https://aeabreu.github.io/)
+Github: [https://aeabreu.github.io/](https://aeabreu.github.io/)
 
 ## Objective
 
@@ -20,23 +20,30 @@ Utilize the extensive writing skills and the interpersonal/communication skills 
 
 ## Skill Summary
 
-+ Proficient with CSS, HTML, JavaScript, Markdown, YAML, JSON.
-+ Understand database technologies: SQL, MongoDB
-+ Understanding of web architecture: SOAP, RESTful services, HTTP, etc.
-+ Experience with CMS: JIRA, WebPlatform
-+ Experience with developer software/services: Git (Gitlab, Github), Postman, Trello
-+ Experience with technical documentation: SwaggerHub, Gliffy, Rally
-+ Experience with Salesforce software (Chatter, Energy Insight).
-+ Highly skilled at developing perfect documents across all categories (wikis, catalogues, newsletters, user manuals, white pages, guides, calendars, job aides, etc). 
-+ Skilled at creating business process diagrams (workflows, organization flowcharts, swim-lane diagrams, GANT charts, etc) as well as technical architecture diagrams and frameworks (wireframes, UML, MVC).
-+ Master proficiency in MS Publisher, MSWord, Visio, SnagIt, Outlook, Powerpoint. 
-+ Extensive experience with Paint, Adobe Photoshop (PDF), Adobe Acrobat, MS Excel, Access, Devtrack, SharePoint, Pydio, Rally, BOX. 
-+ Extensive experience designing training materials and leading tutorials.
-+ Extensive experience copyediting pre-existing documents and content for non-technical audiences.
++	Master proficiency in MS Publisher, MSWord, Visio, SnagIt, Outlook, Powerpoint. 
++	Extensive experience with CMS and developer software including Gitlab, Github, Swagger, Gliffy, WebPlatform, Postman.
++	Extensive experience with the document Atlassian suite (Confluence, JIRA, BitBucket).
++	Extensive experience with docs-as-code practices and formats Markdown and Asciidoc.
++	Highly skilled at developing perfect documents across all categories (wikis, catalogues, newsletters, user manuals, white pages, guides, calendars, job aides, etc). 
++	Experience with Paint, Adobe Photoshop (PDF), Adobe Acrobat, MS Excel, Access, Devtrack, SharePoint, Pydio, Rally, BOX.
++	Highly skilled at creating business process diagrams (workflows, organization flowcharts, swim-lane diagrams, GANT charts, etc) as well as technical architecture diagrams and frameworks (wireframes, UML, MVC).
++	Thorough understanding of the Software Development Lifecycle (SDLC) as well as Git, web and IT architecture. 
++	Extensive experience designing training materials, designing and leading tutorials.
++	Experience with Rally and Trello software for Agile workflow management.
++	Familiar with parsing and writing code in CSS, HTML, JavaScript, XML, YAML, JSON languages.
++	Experience with Salesforce support software (Chatter, Energy Insight).
+
 
 ## Work Experience
+**Technical Writer**, FIS, SF, CA _Sep 2017 - Current
 
-**Technical Writer**, Skrimmage Project, SF, CA, _Feb 2017 - Current_ 
++	Created, transformed, and maintained API documents for Swagger 2.0 and OAS 3.0 during an effort to adopt a doc-first approach to API development.
++	Managed dev team wiki spaces using the Atlassian software (Confluence, Bitbucket) with content for features, onboarding, release notes, project management, best practices, and more.
++	Managed an API marketplace of Swagger docs, supplement docs, thumbnails and general service info through WSO2 middleware.
++	Implemented docs-as-code practices for material outside the Atlassian spaces using Asciidoc and Markdown formats and Git.
+
+
+**Technical Writer**, Skrimmage Project, SF, CA, _Feb 2017 - Aug 2017 
 
 + Created and maintained the [Skrimmage API documentation](https://app.swaggerhub.com/apis/skankbunnysquad/skrimmage/v1) through Swaggerhub.
 + Tested and validate API responses using Postman.
