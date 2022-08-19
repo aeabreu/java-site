@@ -21,21 +21,28 @@ Utilize the extensive writing skills and the interpersonal/communication skills 
 ## Skill Summary
 
 +	Master proficiency in MS Publisher, MSWord, Visio, SnagIt, Outlook, Powerpoint. 
-+	Extensive experience with CMS and developer software including Gitlab, Github, Swagger, Gliffy, WebPlatform, Postman.
-+	Extensive experience with the document Atlassian suite (Confluence, JIRA, BitBucket).
-+	Extensive experience with docs-as-code practices and formats Markdown and Asciidoc.
-+	Highly skilled at developing perfect documents across all categories (wikis, catalogues, newsletters, user manuals, white pages, guides, calendars, job aides, etc). 
-+	Experience with Paint, Adobe Photoshop (PDF), Adobe Acrobat, MS Excel, Access, Devtrack, SharePoint, Pydio, Rally, BOX.
-+	Highly skilled at creating business process diagrams (workflows, organization flowcharts, swim-lane diagrams, GANT charts, etc) as well as technical architecture diagrams and frameworks (wireframes, UML, MVC).
-+	Thorough understanding of the Software Development Lifecycle (SDLC) as well as Git, web and IT architecture. 
-+	Extensive experience designing training materials, designing and leading tutorials.
-+	Experience with Rally and Trello software for Agile workflow management.
-+	Familiar with parsing and writing code in CSS, HTML, JavaScript, XML, YAML, JSON languages.
-+	Experience with Salesforce support software (Chatter, Energy Insight).
++ Extensive experience with API and web development tools including Github, Swagger, Readme.io, Gliffy, Postman.
++ Extensive experience with the Atlassian software suite for devlopment (Confluence, JIRA, BitBucket).
++ Experience with JIRA and Asana software for Agile workflow management as well as Git.
++ Extensive experience with docs-as-code practices and formats Markdown and Asciidoc.
++ Highly skilled at developing perfect documents across all categories (wikis, catalogues, newsletters, user manuals, white pages, guides, calendars, job aides, etc). 
++ Experience with Paint, Adobe Photoshop (PDF), Adobe Acrobat, MS Excel, Access, Devtrack, SharePoint, Pydio, Rally, BOX.
++ Experience with XML-based DITA documentation tools.
++ Highly skilled at creating business process diagrams (workflows, organization flowcharts, swim-lane diagrams, GANT charts, etc) as well as technical architecture diagrams and frameworks (wireframes, UML).
++ Extensive experience designing training materials (powerpoint, PDF, and Lessonly), designing and leading tutorial sessions.
++ Familiar with parsing and writing code in CSS, HTML, JavaScript, XML, YAML, JSON languages.
+
 
 
 ## Work Experience
-**Technical Writer**, FIS, SF, CA _Sep 2017 - Current
+**Senior Tech Writer**, Doma,	SF, CA,	_July 2021 - Aug 2022
+
++ Created and revised API documentation using Readme.io.
++ Managed the Confluence wiki environment for Product Management (a team of almost twenty PMs) and their engineering teams.
++ Created policy, marketing, and procedure documentation for external partners and internal Ops teams in PDF and DOC formats. Diagrams and flowcharts in LucidChart.
++ Created training modules and slide decks in Lessonly for online instruction.
+
+**Technical Writer**, FIS, SF, CA, _Sep 2017 - Current
 
 +	Created, transformed, and maintained API documents for Swagger 2.0 and OAS 3.0 during an effort to adopt a doc-first approach to API development.
 +	Managed dev team wiki spaces using the Atlassian software (Confluence, Bitbucket) with content for features, onboarding, release notes, project management, best practices, and more.
