@@ -35,14 +35,14 @@ Utilize the extensive writing skills and the interpersonal/communication skills 
 
 
 ## Work Experience
-**Senior Tech Writer**, Doma,	SF, CA,	_July 2021 - Aug 2022
+**Senior Tech Writer**, Doma,	SF, CA,	*July 2021 - Aug 2022*
 
 + Created and revised API documentation using Readme.io.
 + Managed the Confluence wiki environment for Product Management (a team of almost twenty PMs) and their engineering teams.
 + Created policy, marketing, and procedure documentation for external partners and internal Ops teams in PDF and DOC formats. Diagrams and flowcharts in LucidChart.
 + Created training modules and slide decks in Lessonly for online instruction.
 
-**Technical Writer**, FIS, SF, CA, _Sep 2017 - Current
+**Technical Writer**, FIS, SF, CA, *Sep 2017 - Jan 2021*
 
 +	Created, transformed, and maintained API documents for Swagger 2.0 and OAS 3.0 during an effort to adopt a doc-first approach to API development.
 +	Managed dev team wiki spaces using the Atlassian software (Confluence, Bitbucket) with content for features, onboarding, release notes, project management, best practices, and more.
@@ -50,7 +50,7 @@ Utilize the extensive writing skills and the interpersonal/communication skills 
 +	Implemented docs-as-code practices for material outside the Atlassian spaces using Asciidoc and Markdown formats and Git.
 
 
-**Technical Writer**, Skrimmage Project, SF, CA, _Feb 2017 - Aug 2017 
+**Technical Writer**, Skrimmage Project, SF, CA, *Feb 2017 - Aug 2017* 
 
 + Created and maintained the [Skrimmage API documentation](https://app.swaggerhub.com/apis/skankbunnysquad/skrimmage/v1) through Swaggerhub.
 + Tested and validate API responses using Postman.
@@ -58,7 +58,7 @@ Utilize the extensive writing skills and the interpersonal/communication skills 
 + Validated MongoDB schemas using the Mongo shell.
 + Developed my presence on Github and in other venues for tech writing specific to the engineer community.
 
-**IT Tech Writer**, Disys for Kaiser Permanente (Contract), Oakland, CA, _Sep 2015 - Dec 2016_
+**IT Tech Writer**, Disys for Kaiser Permanente (Contract), Oakland, CA, *Sep 2015 - Dec 2016*
 
 + Created network and system architecture diagrams for all environments of KP.org and MyDoctor Online services.
 + Worked directly with engineers, product managers, and other stakeholders to help define and outline new developer products and features.
@@ -69,7 +69,7 @@ Utilize the extensive writing skills and the interpersonal/communication skills 
 + Performed reverse engineering of physical data models from databases and SQL scripts.
 + Evaluated data models and physical databases for variances and discrepancies.
 
-**IT Tech Writer**, AllSource for PG&E (Contract), San Francisco, CA, _Jan 2013 - Feb 2015_	
+**IT Tech Writer**, AllSource for PG&E (Contract), San Francisco, CA, *Jan 2013 - Feb 2015*	
 
 + Created procedures and guides facilitating the exchange of data between existing databases and Salesforce systems.
 + Created diagrams and data flows for internal systems pre- and post-integration.
