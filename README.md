@@ -20,9 +20,10 @@ Utilize the extensive writing skills and the interpersonal/communication skills 
 
 ## Skill Summary
 
-+	Master proficiency in MS Publisher, MSWord, Visio, SnagIt, Outlook, Powerpoint. 
-+ Extensive experience with API and web development tools including Github, Swagger, Readme.io, Gliffy, Postman.
-+ Extensive experience with the Atlassian software suite for devlopment (Confluence, JIRA, BitBucket).
++ Master proficiency in MS Publisher, MSWord, Visio, SnagIt, Outlook, Powerpoint, Google Docs, Google Sheets.
++ Extensive experience with API and web development tools including Github, Swagger, Readme.io, Gliffy, Postman, Bitbucket.
++ Extensive experience with wiki doc platforms Notion and Confluence. 
++ A.I. for docs experience with Notion’s Ask A.I. and ChatGPT.
 + Experience with JIRA and Asana software for Agile workflow management as well as Git.
 + Extensive experience with docs-as-code practices and formats Markdown and Asciidoc.
 + Highly skilled at developing perfect documents across all categories (wikis, catalogues, newsletters, user manuals, white pages, guides, calendars, job aides, etc). 
@@ -30,11 +31,19 @@ Utilize the extensive writing skills and the interpersonal/communication skills 
 + Experience with XML-based DITA documentation tools.
 + Highly skilled at creating business process diagrams (workflows, organization flowcharts, swim-lane diagrams, GANT charts, etc) as well as technical architecture diagrams and frameworks (wireframes, UML).
 + Extensive experience designing training materials (powerpoint, PDF, and Lessonly), designing and leading tutorial sessions.
-+ Familiar with parsing and writing code in CSS, HTML, JavaScript, XML, YAML, JSON languages.
++ Familiar with parsing and/or writing code in CSS, HTML, JavaScript, XML, YAML, JSON, Ruby languages.
+
 
 
 
 ## Work Experience
+**Senior Tech Writer**, Secureframe,  Fully Remote, *Oct 2022 - Jun 2023*
+
++	Managed in-app content and guidance using a Retool backend.
++	Conducted internal wiki management and doc development on Notion with Ask A.I. and ChatGPT.
++	Developed and directed content pipeline for Help Center content through Zendesk.
+
+
 **Senior Tech Writer**, Doma,	SF, CA,	*July 2021 - Aug 2022*
 
 + Created and revised API documentation using Readme.io.
