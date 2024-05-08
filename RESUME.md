@@ -21,11 +21,11 @@ Utilize the extensive writing skills and the interpersonal/communication skills 
 ## Skill Summary
 
 + Master proficiency in MS Publisher, MSWord, Visio, SnagIt, Outlook, Powerpoint, Google Docs, Google Sheets.
-+ Extensive experience with API and web development tools including Github, Swagger, Readme.io, Gliffy, Postman, Bitbucket.
-+ Extensive experience with wiki doc platforms Notion and Confluence. 
++ Extensive experience with API and web development tools including GitHub, Swagger, Readme.io, Gliffy, Postman, Bitbucket.
++ Extensive experience with wiki doc platforms Notion and Confluence.
++ Experience with docs-as-code workflows and git, and Markdown and Asciidoc format.
 + A.I. for docs experience with Notion’s Ask A.I. and ChatGPT.
-+ Experience with JIRA and Asana software for Agile workflow management as well as Git.
-+ Extensive experience with docs-as-code practices and formats Markdown and Asciidoc.
++ Experience with JIRA and Asana software for Agile workflow management.
 + Highly skilled at developing perfect documents across all categories (wikis, catalogues, newsletters, user manuals, white pages, guides, calendars, job aides, etc). 
 + Experience with Paint, Adobe Photoshop (PDF), Adobe Acrobat, MS Excel, Access, Devtrack, SharePoint, Pydio, Rally, BOX.
 + Experience with XML-based DITA documentation tools.
@@ -37,6 +37,12 @@ Utilize the extensive writing skills and the interpersonal/communication skills 
 
 
 ## Work Experience
+
+**Senior Tech Writer**, Dropbox, San Francisco, *Aug 2023 - Present*
+
++ Managed the internal Confluence wiki environment for Plat and Mobile engineers and TPMs.
++ Supported migration to a docs-as-code workflow with Markdown in a developer portal environment.
+
 **Senior Tech Writer**, Secureframe,  Fully Remote, *Oct 2022 - Jun 2023*
 
 +	Managed in-app content and guidance using a Retool backend.
